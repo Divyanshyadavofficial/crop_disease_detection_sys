@@ -18,6 +18,13 @@ You can organize the dataset as:
 
 dataset/ ├── Bacterial Blight/ ├── Brown Spot/ └── Leaf Smut/
 
+⚙️ Streamlit Functionality
+✅ Upload images (.jpg, .jpeg, .png)
+✅ Displays uploaded image for verification
+✅ Predicts disease using a trained CNN model
+✅ Shows predicted label and confidence scores
+✅ Clean and responsive web interface with 1-click prediction
+
 🧪 Model Architecture
 
 Input: 128x128 RGB images
@@ -32,6 +39,5 @@ Loss: Depends on epochs and batch size
 🧠 Future Improvements
 
 Add more disease categories
-Deploy with Streamlit or Flask
 Implement Mobile App version
 Add Grad-CAM visualization to highlight disease areas
