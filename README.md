@@ -19,6 +19,8 @@ You can organize the dataset as:
 dataset/ ├── Bacterial Blight/ ├── Brown Spot/ └── Leaf Smut/
 
 ⚙️ Streamlit Functionality
+
+
 ✅ Upload images (.jpg, .jpeg, .png)
 ✅ Displays uploaded image for verification
 ✅ Predicts disease using a trained CNN model
